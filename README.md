@@ -48,7 +48,6 @@ The system **extracts key details**, **matches resumes to job descriptions**, an
 📩 Contact
 
 👨‍💻 Created by: [Chittaranjan G Nivargi]
-
 📧 Contact: c.nivargi@gmail.com
 
 ---
