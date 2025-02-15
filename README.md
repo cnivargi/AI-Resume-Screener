@@ -51,10 +51,3 @@ The system **extracts key details**, **matches resumes to job descriptions**, an
 📧 Contact: c.nivargi@gmail.com
 
 ---
-
-## 🚀 Installation & Setup
-
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Screener.git
-cd AI-Resume-Screener
