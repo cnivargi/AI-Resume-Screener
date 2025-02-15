@@ -40,11 +40,14 @@ The system **extracts key details**, **matches resumes to job descriptions**, an
 ---
 
 ## 📷 **AI Resume Screener Workflow**
-![AI Resume Screener Workflow](https://via.placeholder.com/800x400?text=Flowchart+Image)  
-*(Replace this with an actual workflow image)*  
+![AI Resume Screener Workflow](https://via.placeholder.com/800x400?text=Flowchart+Image)  -- This is coming soon
 
 **Flowchart Steps:**  
 1️⃣ **Resume Upload** → 2️⃣ **Text Extraction** → 3️⃣ **Semantic Embedding (ChromaDB)** → 4️⃣ **AI Matching** → 5️⃣ **Ranking Candidates**  
+
+📩 Contact
+👨‍💻 Created by: [Chittaranjan G Nivargi]
+📧 Contact: c.nivargi@gmail.com
 
 ---
 
