@@ -46,7 +46,9 @@ The system **extracts key details**, **matches resumes to job descriptions**, an
 1️⃣ **Resume Upload** → 2️⃣ **Text Extraction** → 3️⃣ **Semantic Embedding (ChromaDB)** → 4️⃣ **AI Matching** → 5️⃣ **Ranking Candidates**  
 
 📩 Contact
+
 👨‍💻 Created by: [Chittaranjan G Nivargi]
+
 📧 Contact: c.nivargi@gmail.com
 
 ---
